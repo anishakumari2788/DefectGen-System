@@ -5,7 +5,7 @@ open in notebook for best experiences
 https://73e7b56876a1e9a392.gradio.live
 
 2.Live demo(2nd commit)
-https://5975c4a8fbfc32fac5.gradio.live
+https://2d3bccc78bab6e75bd.gradio.live
 
 3.streamlitUI demo
 https://python-5hplkns8qqqpakvztkgsql.streamlit.app
