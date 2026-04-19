@@ -2,7 +2,7 @@
 open in notebook for best experiences
 
 1.Live demo(1st commit)
-https://28e7b789fdfdeb17d7.gradio.live
+https://42e882e5cdd89008c7.gradio.live
 
 2.Live demo(2nd commit)
 https://2d3bccc78bab6e75bd.gradio.live
