@@ -79,5 +79,5 @@ demo = gr.Interface(
     description="Generate realistic defect images using AI"
 )
 
-demo.launch()
+demo.launch(share=True)
 
